@@ -1,0 +1,17 @@
+{
+  "name": "ski-jumping-stores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha calculateTotalPoints.test.js",
+    "test-distance": "mocha calculateDistancePoints.test.js",
+    "test-style": "mocha calculateStylePoints.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
